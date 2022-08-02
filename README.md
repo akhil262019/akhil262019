@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhil Prasannakumar
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Bsc Data Science and Programming in IIT Madras
 - 💞️ I’m looking to collaborate on new Projects
 - 📫 You can reach me https://www.linkedin.com/in/akhil-prasannakumar-044601bb
 
